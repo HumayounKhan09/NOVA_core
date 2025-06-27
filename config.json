@@ -1,0 +1,17 @@
+{
+    "version": "1.0",
+    "reminders": [
+        {
+            "id": "reminder1",
+            "message": "Review for something",
+            "time": "2025-04-27T15:00:00-04:00"
+        },
+        {
+            "id": "Reminder2",
+            "message": "do something you human",
+            "cron": "0 17 * * FRI",
+            "enabled": true
+        }
+
+    ]
+}

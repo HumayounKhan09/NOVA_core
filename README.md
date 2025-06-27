@@ -1,4 +1,3 @@
-Introducing NOVA - Humayoun Khan's JARVIS style voice assistant
+This is a fun project to try new things, because why not?
+Accomplishment Record:
 
-Phased approch to development:
-Phase !: Scheduler
