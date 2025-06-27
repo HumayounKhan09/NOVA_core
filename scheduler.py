@@ -25,6 +25,6 @@
         scheduler.start()
         try:
             while True:
-                sleep()
+                scheduler.sleep(60)
         except KeyboardInterrupt:
             scheduler.shutdown()
